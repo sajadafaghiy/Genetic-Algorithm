@@ -1,0 +1,9 @@
+C:\Users\Sajad\Documents\GitHub\PSO\PSO\obj\Debug\ParticleSwarmOptimization.Main.resources
+C:\Users\Sajad\Documents\GitHub\PSO\PSO\obj\Debug\ParticleSwarmOptimization.Properties.Resources.resources
+C:\Users\Sajad\Documents\GitHub\PSO\PSO\obj\Debug\ParticleSwarmOptimization.csproj.GenerateResource.Cache
+C:\Users\Sajad\Documents\GitHub\PSO\PSO\obj\Debug\ParticleSwarmOptimization.csproj.CoreCompileInputs.cache
+C:\Users\Sajad\Documents\GitHub\PSO\PSO\bin\Debug\ParticleSwarmOptimization.exe.config
+C:\Users\Sajad\Documents\GitHub\PSO\PSO\bin\Debug\ParticleSwarmOptimization.exe
+C:\Users\Sajad\Documents\GitHub\PSO\PSO\bin\Debug\ParticleSwarmOptimization.pdb
+C:\Users\Sajad\Documents\GitHub\PSO\PSO\obj\Debug\ParticleSwarmOptimization.exe
+C:\Users\Sajad\Documents\GitHub\PSO\PSO\obj\Debug\ParticleSwarmOptimization.pdb
