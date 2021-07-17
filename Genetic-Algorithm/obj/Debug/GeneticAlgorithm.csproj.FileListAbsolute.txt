@@ -1,0 +1,10 @@
+C:\Users\S.A\Documents\GitHub\Genetic-Algorithm\Genetic-Algorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\S.A\Documents\GitHub\Genetic-Algorithm\Genetic-Algorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\S.A\Documents\GitHub\Genetic-Algorithm\Genetic-Algorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\S.A\Documents\GitHub\Genetic-Algorithm\Genetic-Algorithm\obj\Debug\GeneticAlgorithm.csproj.AssemblyReference.cache
+C:\Users\S.A\Documents\GitHub\Genetic-Algorithm\Genetic-Algorithm\obj\Debug\GeneticAlgorithm.Main.resources
+C:\Users\S.A\Documents\GitHub\Genetic-Algorithm\Genetic-Algorithm\obj\Debug\GeneticAlgorithm.Properties.Resources.resources
+C:\Users\S.A\Documents\GitHub\Genetic-Algorithm\Genetic-Algorithm\obj\Debug\GeneticAlgorithm.csproj.GenerateResource.cache
+C:\Users\S.A\Documents\GitHub\Genetic-Algorithm\Genetic-Algorithm\obj\Debug\GeneticAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\S.A\Documents\GitHub\Genetic-Algorithm\Genetic-Algorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\S.A\Documents\GitHub\Genetic-Algorithm\Genetic-Algorithm\obj\Debug\GeneticAlgorithm.pdb

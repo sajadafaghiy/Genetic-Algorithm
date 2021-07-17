@@ -9,7 +9,7 @@ namespace GeneticAlgorithm
     public partial class Main : Form
     {
         private GA ga;
-        private OptimizationProblem optimizationProblem;
+        private readonly OptimizationProblem optimizationProblem;
 
         #region Windows Form Settings
         public const int WM_NCLBUTTONDOWN = 0xA1;
